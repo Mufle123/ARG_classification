@@ -1,7 +1,7 @@
 # ARG_classification
 This work is my final thesis for an undergraduate degree in computer science.
 
-#Summary
+# Summary
 
 Antibiotic resistance is a current problem in medicine. One of the ways to identify and
 classify resistance is through artificial intelligence technologies such as language models
