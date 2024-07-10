@@ -1,6 +1,6 @@
 # ARG_classification
-This work is my final thesis for an undergraduate degree in computer science.
 
+This work is my final thesis for an undergraduate degree in computer science at the Faculty of Electrical Engineering and Computing. I have applied the knowledge and skills acquired during my studies to the development of this thesis.
 # Summary
 
 Antibiotic resistance is a current problem in medicine. One of the ways to identify and
